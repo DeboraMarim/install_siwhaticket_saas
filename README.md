@@ -22,6 +22,7 @@ Para segunda instancia
 sudo ./install_instancia
 ```
 
+Com base no repo de @melissagobatti ❤️
 
 ## Requisitos
 
